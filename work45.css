@@ -1,0 +1,409 @@
+.all {
+    background-color: rgb(76, 245, 189);
+}
+
+
+
+.container {
+    max-width: 1170;
+    margin: 0 auto;
+
+}
+
+.header_wrap {
+    display: flex;
+}
+
+.header_box {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: left 100px;
+
+}
+
+header {
+    background-color: bisque;
+}
+
+.header_img {
+    border-radius: 50%;
+    margin-top: 40px;
+    margin-bottom: 50px;
+    padding: 10px;
+    background-color: aquamarine;
+
+}
+
+.header_heading {
+
+    color: rgb(240, 232, 232);
+    font-style: normal;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
+    font-size: 42px;
+    line-height: 40px;
+    color: rgb(138, 138, 123);
+}
+
+.header_text {
+    font-style: normal;
+    font-size: 20px;
+    line-height: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(107, 110, 110);
+
+}
+
+.Objective {
+    background-color: bisque;
+    padding-left: 30px;
+    padding-bottom: 50px;
+    padding-top: 0px;
+}
+
+
+.Objective_heading {
+    font-style: normal;
+    font-size: 40px;
+    line-height: 38px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(63, 63, 63);
+
+    padding: 20px 20px 20px 20px;
+
+}
+
+
+.Objective_text1 {
+    font-style: unset;
+    font-size: 20px;
+    line-height: normal;
+    font-family: monospace;
+    padding: 20px 20px 20px 20px;
+    margin: auto;
+}
+
+.Objective_text2 {
+    font-style: unset;
+    font-size: 20px;
+    line-height: normal;
+    font-family: monospace;
+    padding: 20px 40px 20px 20px;
+
+}
+
+
+.Experience {
+    background-color: bisque;
+    padding: 0px 0px 20px 20px;
+
+    
+}
+
+.Experience_tex {
+    font-style: normal;
+    font-size: 15px;
+    line-height: 14px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(63, 63, 63);
+    padding-top: 100px;
+    padding-left: 10px;
+    display: flex;
+
+    
+    
+}
+
+.e-w {
+    display: flex;
+    justify-content:space-between;
+    
+}
+.Experience_header1 {
+    font-style: normal;
+    font-size: 40px;
+    line-height: 38px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(63, 63, 63);
+    display: flex;
+    justify-content: center;
+    padding-bottom: 0px;
+    padding-top: 10px;
+}
+
+.Experience_header3 {
+    font-style: normal;
+    font-size: 20px;
+    line-height: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(63, 63, 63);
+}
+
+.Experience_head {
+    font-style: normal;
+    font-size: 20px;
+    line-height: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(63, 63, 63);
+    padding-top: 40px;
+    padding-right: 1500px;
+    
+}
+
+.Experience_text {
+    border-width: 5px;
+    border-color: aquamarine;
+    font-style: unset;
+    font-size: 25px;
+    line-height: normal;
+    font-family: monospace;
+    padding-left: 400px;
+    padding-bottom: 40px;
+    padding-top: 40px;
+    
+}
+
+.Experience_text1 {
+    font-style: unset;
+    font-size: medium;
+    line-height: normal;
+    font-family: monospace;
+}
+
+.Experience_text2 {
+    font-style: unset;
+    font-size: medium;
+    line-height: normal;
+    font-family: monospace;
+}
+
+.Experience_text3 {
+    font-style: unset;
+    font-size: medium;
+    line-height: normal;
+    font-family: monospace;
+}
+
+.Experience_text4 {
+    font-style: unset;
+    font-size: medium;
+    line-height: normal;
+    font-family: monospace;
+}
+
+.Experience_text5 {
+    font-style: unset;
+    font-size: medium;
+    line-height: normal;
+    font-family: monospace;
+}
+
+.Experience_text6 {
+    font-style: unset;
+    font-size: medium;
+    line-height: normal;
+    font-family: monospace;
+}
+
+.Skills {
+    background-color: bisque;
+}
+
+.Skills_header {
+    font-style: normal;
+    font-size: 20px;
+    line-height: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(63, 63, 63);
+    display: flex;
+    justify-content: center;
+    padding-top: 65px;
+    padding-bottom: 15px;
+    
+}
+
+.Skills_text {
+    font-style: unset;
+    font-size: 25px;
+    line-height: normal;
+    font-family: monospace;
+    padding-bottom: 65px;
+    padding-left: 33px;
+}
+
+.Language {
+    background-color: bisque;
+    padding: 0px 30px 0px 0px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.Language_header {
+    font-style: normal;
+    font-size: 20px;
+    line-height: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(63, 63, 63);
+    padding-left: 15px;
+
+}
+
+.language_item{
+    font-family: 'Gotham Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    list-style-type: none;
+}
+
+
+.Language_table {
+    font-style: unset;
+    font-size: 20px;
+    line-height: normal;
+    font-family: monospace;
+    
+}
+
+
+.Form {
+    background-color: bisque;
+    padding-bottom:  50px;
+}
+.form_container {
+    display: flex;
+    justify-content: center;
+}
+.Form_header {
+    font-style: normal;
+    font-size: 20px;
+    line-height: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(63, 63, 63);
+
+    padding-top: 30px;
+    text-align: center;
+    padding-bottom: 10px;
+    padding-left: px;
+}
+.Form_header2 {
+    font-style: normal;
+    font-size: 15px;
+    line-height: 8px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(63, 63, 63);
+    padding-right: 7px;
+
+}
+
+.name {
+    padding-bottom: 10px;
+}
+.form_input{
+    width: 366px;
+    border: 5px solid #ffffff;
+    border-top: none ;
+    border-left: none;
+    border-right: none;
+    background-color:#ffffff;
+    font-weight: bold;
+    resize: none;
+}
+
+.Form_header3 {
+    font-style: normal;
+    font-size: 15px;
+    line-height: 8px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(63, 63, 63);
+    padding-right: 5px;
+    padding-left: 6px;
+}
+
+
+.form_arrea {
+    display: flex;
+    padding-left: 40px;
+    display: flex;
+    
+    justify-content: center;
+    padding-top: 20px;
+}
+
+.form_textarea {
+    width: 400px;
+    border: 5px solid #17c8fd;
+    border-top: none ;
+    border-left: none;
+    border-right: none;
+    background-color: rgb(255, 255, 255);
+    font-weight: bold;
+    resize: none;
+    
+}
+
+.form_button {
+    width: 168px;
+    height: 40.28px;
+    background: hsl(157, 100%, 67%);
+    font-family: 'Gotham Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 13px;
+    text-align: center;
+    color: #FFFFFF;
+    border: none;
+
+    display: block;
+    margin: 0 auto;
+    margin-top: 50px;
+    
+}
+
+.form_button:hover {
+      opacity: 0.6;
+}
+
+.Contacts {
+    background-color: bisque;
+}
+
+.Contacts_header {
+    font-style: normal;
+    font-size: 15px;
+    line-height: 8px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(63, 63, 63); 
+    display: flex;
+    justify-content: center;
+    padding-top: 45px;
+}
+
+.number {
+    font-style: normal;
+    display: flex;
+    justify-content: center;
+}
+
+.e-mail {
+    font-style: normal;
+    display: flex;
+    justify-content: center;
+}
+
+.youtube {
+    font-style: normal;
+    display: flex;
+    justify-content: center;
+}
+
+.Contacts_text {
+    font-style: unset;
+    font-size: medium;
+    line-height: normal;
+    font-family: monospace;
+}
