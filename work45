@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="en">
+
+
+<link rel="stylesheet" href="style.css">
+<head>
+
+</head>
+
+<body class="all">
+    <header class="header">
+        <div class="container">
+            <div class="header_wrap">
+                
+                <img class="header_img" src="img/dachnik.jpg" alt="my avatar" width="250" height="250">
+
+                <div class="header_box">
+                    
+                    <h1 class="header_heading">Yaroslav Ruk</h1>
+
+                    
+                    <p class="header_text">frontend developer</p>
+
+
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <main>
+
+
+        <section class="Objective">
+            <div class="container">
+                <h2 class="Objective_heading">Objective</h2>
+                <p class="Objective_text1">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Maiores, cumque rerum? Laudantium
+                    accusantium
+                    unde
+                    alias odit? Autem rerum placeat facilis qui facere eligendi cumque quas unde corporis
+                    necessitatibus,
+                    asperiores
+                    deleniti?</p>
+                <p class="Objective_text2">Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa vel repellat minus itaque placeat
+                    assumenda
+                    facere
+                    quae perspiciatis quam adipisci, rem quaerat autem quis. Odit cupiditate ratione ducimus non autem!
+                </p>
+            </div>
+        </section>
+
+
+        <section class="Experience">
+            <h2 class="Experience_header1">Experience</h2>
+            <div class="container">
+                <div class="e-w">
+                    <p class="Experience_tex">2019-present</p>
+                    <h3 class="Experience_head">Web-studio 1</h3>
+                </div>
+                <p class="Experience_text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora excepturi voluptatum similique velit
+                    dolore
+                    quam saepe quis a cum illum corporis numquam ipsum ad, laborum mollitia esse sequi optio assumenda!
+                </p>
+                <div class="e-w">
+                    <p class="Experience_tex">2016-2019</p>
+                    <h3 class="Experience_head">WebRef Studio</h3>
+                </div>    
+                <p class="Experience_text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora excepturi voluptatum similique velit
+                    dolore
+                    quam saepe quis a cum illum corporis numquam ipsum ad, laborum mollitia esse sequi optio assumenda!
+                </p>
+                <div class="e-w" >
+                    <p class="Experience_tex">2014-2016</p>
+                    <h3 class="Experience_head">New York Times</h3>
+                </div>
+                <p class="Experience_text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora excepturi voluptatum similique velit
+                    dolore
+                    quam saepe quis a cum illum corporis numquam ipsum ad, laborum mollitia esse sequi optio assumenda!
+                </p>
+                <p class="Experience_text">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Saepe eaque alias modi, ratione delectus
+                    quis
+                    obcaecati nobis excepturi porro pariatur eum repellendus, nostrum animi? Reprehenderit ullam iste
+                    delectus
+                    tempore in!</p>
+                <div>
+        </section>
+        <section class="Skills">
+            <div class="container">
+                <h2 class="Skills_header">Skills</h2>
+                <p class="Skills_text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci mollitia tempora pariatur ut a
+                    doloremque
+                    iste,
+                    reprehenderit odit doloribus nam fuga necessitatibus aliquid eligendi, error porro quo, cumque saepe
+                    modi.
+                </p>
+            </div>
+        </section>
+        <section class="Language">
+            <div class="container">
+                <h2 class="Language_header">Language</h2>
+                <ul class="Language_table">
+                    <li class="language_item">English</li>
+                    <li class="language_item">Russian</li>
+                </ul>
+            </div>
+        </section>
+        <section class="Form">
+            <div class="container">
+                <h2 class="Form_header">Form</h2>
+                <form class="Form_box" action="#">
+                    
+
+                    <div class="form_container">
+
+                    <h3 class="Form_header2">Name</h3>
+                    <input type="name" class="form_input" placeholder="Ваше имя">
+    
+        
+                    <h3 class="Form_header3">E-mail</h3>
+                    <input type="e-mail" class="form_input" placeholder="your e-mail">
+
+                    </div>
+
+                </form>
+                
+                <div class="form_arrea">
+                    <form action="#">
+                        <textarea class="form_textarea" name="go" id="" cols="30" rows="10" placeholder="Your message"></textarea>
+                    </form>
+                </div>
+                <form action="#">
+                    <button class="form_button">send</button>
+                </form>
+            </div>
+
+
+
+
+        </section>
+
+        <section class="Contacts">
+            <div class="container">
+                <h2 class="Contacts_header">Contacts</h2>
+                <ulclass="menu">
+                    <li class="number"><a href="#">7(111)0907890</a></li>
+                    <li class="e-mail"><a href="#">yarikmail@mail.com</a></li>
+                    <li class="youtube"><a href="#">Youtube Yariknagibator2030</a></li>
+                    </ulclass>
+                    <p class="Contacts_text">All Rights Reserved 2022</p>
+            </div>
+        </section>
+        <section>
+            <footer>
+                @Ярослав Гогуля
+            </footer>
+        </section>
+        <section>
+            <address>
+                этот портал защищен авторским правом
+                права принадлежат автору
+            </address>
+        </section>
+    </main>
+    <html>
+</body>
